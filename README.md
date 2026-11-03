@@ -1,4 +1,4 @@
-# pinch-sun
+
 # Sunrise / Sunset Hand Control
 
 Control a stylized city skyline's time of day with nothing but your hand. Pinch your thumb and index finger together to raise the sun; spread them apart to make it set. The scene shifts through midnight, dawn, sunrise, morning, and high noon, with twinkling stars, drifting clouds, lit windows, a landmark tower, and traffic light trails.
